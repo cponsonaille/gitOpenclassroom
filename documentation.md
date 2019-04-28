@@ -9,4 +9,7 @@
 * Creation et ajout de deux fichiers demmandés dans l'enonce
 * commit et push
 * creation d'un fichier temporaire et ajout des infos dans la doc
+* commit et push
+* suppression du fichier temporaire et ajout de commentaires dans la documentation
+
 
